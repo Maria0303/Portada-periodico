@@ -1,0 +1,228 @@
+.jumbotron-fluid{
+text-align: center;
+background-color:transparent !important;;
+}
+.display-4{
+  font-family: 'Bebas Neue', cursive;
+}
+
+.box1{
+  border: 1px solid  rgba(165, 162, 162, 0.993);
+  height: 490px;
+  width: 460px;
+  float: left;
+  border-radius: 2px;
+}
+
+.titulo1{
+  font-family: 'Lato', sans-serif;
+  justify-content: center;
+  margin-top: 30px;
+  font-size: 23px;
+  text-align: center;
+}
+
+.parrafo1{
+  margin-top: 30px;
+  height: 117px;
+  width: 448px;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 10px;
+}
+
+.subparrafocuadro1{
+  margin-top: 18px;
+  height: 131px;
+  width: 448px;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 10px;
+}
+
+.box2{
+  border: 1px solid rgba(165, 162, 162, 0.993);
+  height: 490px;
+  width: 662px;
+  align-items: center;
+  justify-content: center;
+  float: left;
+  border-radius: 2px;
+  font-size: 30px;
+}
+
+.titulo2{
+  font-family: 'Grandstander', cursive;
+  margin-left: 10px;
+  margin-top: 31px;
+  height: 37px;
+  width: 629px;
+  font-size: 23px;
+  text-align: center;
+}
+
+.gato{
+  margin-top: 18px;
+  border: transparent;
+  height: 250px;
+  width: 630px;
+  float: center;
+}
+
+.parrafo2{
+  margin-left: 11px;
+  margin-top: 18px;
+  height: 42px;
+  width: 580px;
+  font-size: 15px;
+  text-align: left;
+}
+
+.subparrafocuadro2{
+  margin-left: 11px;
+  margin-top: 6px;
+  height: 51px;
+  width: 580px;
+  font-size: 15px;
+  text-align: left;
+}
+
+.box3{
+  border: 1px solid rgba(165, 162, 162, 0.993);
+  height: 490px;
+  width: 460px;
+  align-items: center;
+  justify-content: center;
+  float: left;
+  border-radius: 2px;
+  font-size: 30px;
+}
+
+.titulo3{
+  font-family: 'Lato', sans-serif;
+  justify-content: center;
+  margin-top: 30px;
+  font-size: 23px;
+  text-align: center;
+}
+
+.parrafo3{
+  margin-top: 32px;
+  height: 112px;
+  width: 448px;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 10px;
+}
+
+.subparrafocuadro3{
+  margin-top: 18px;
+  height: 131px;
+  width: 448px;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 10px;
+}
+
+.box4{
+  border: 1px solid rgba(165, 162, 162, 0.993);
+  height: 337px;
+  width: 460px;
+  align-items: center;
+  justify-content: center;
+  float: left;
+  border-radius: 2px;
+  font-size: 30px;
+}
+
+.titulo4{
+  font-family: 'Lato', sans-serif;
+  justify-content: center;
+  margin-top: 30px;
+  font-size: 23px;
+  text-align: center;
+}
+
+.parrafo4{
+  margin-top: 32px;
+  height: 112px;
+  width: 448px;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 10px;
+}
+
+.subparrafocuadro4{
+  margin-top: 18px;
+  height: 131px;
+  width: 448px;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 10px;
+}
+
+.box5{
+  border: 1px solid rgba(165, 162, 162, 0.993);
+  height: 337px;
+  width: 1122px;
+  text-align: left ;
+  align-items: center;
+  justify-content: center;
+  float: left;
+  border-radius: 2px;
+  font-size: 30px;
+}
+
+.alert-warning1{
+  font-family: 'Grandstander', cursive;
+  background-color: #faebbb;
+  color: black;
+  position: relative;
+  padding: .64rem 1.25rem;
+  margin-bottom: 0rem;
+  border: 1px solid transparent;
+  border-radius: -0.83rem;
+}
+
+.alert-info2{
+  font-family: 'Grandstander', cursive;
+  background-color: #8feeee;
+  color: black;
+  position: relative;
+  padding: .64rem 1.25rem;
+  margin-bottom: 0rem;
+  border: 1px solid transparent;
+  border-radius: -0.83rem;
+}
+
+.alert-success3{
+  font-family: 'Grandstander', cursive;
+  background-color: #9becae;
+  color: black;
+  position: relative;
+  padding: .64rem 1.25rem;
+  margin-bottom: 0rem;
+  border: 1px solid transparent;
+  border-radius: -0.83rem;
+}
+
+.alert-primary4{
+  font-family: 'Grandstander', cursive;
+  background-color: #6092f0;
+  color: black;
+  position: relative;
+  padding: .64rem 1.25rem;
+  margin-bottom: 0rem;
+   border: 1px solid transparent;
+  border-radius: -0.83rem;
+}
+
+.alert-primary1{
+  font-family: 'Grandstander', cursive;
+  color: black;
+  background-color: #9695fce5;
+  position: relative;
+  padding: .64rem 1.25rem;
+  margin-bottom: 0rem;
+  border-radius: -0.83rem;
+}
